@@ -26,7 +26,7 @@ const HeaderSix = () => {
   // Sticky Menu Area End
 
   const [isOffCanvasOpen, setIsOffCanvasOpen] = useState(false);
-  const selectHandler = e => {}
+  const selectHandler = e => { }
 
   return (
     <>
@@ -88,7 +88,7 @@ const HeaderSix = () => {
                     <span className="bd-button-content-wrapper">
                       <span className="pd-animation-flip">
                         <span className="bd-btn-anim-wrapp">
-                          <span className="bd-button-text">Get a Quotes</span>
+                          <span className="bd-button-text">Get a Quotes Tiến</span>
                           <span className="bd-button-text">Get a Quotes</span>
                         </span>
                       </span>

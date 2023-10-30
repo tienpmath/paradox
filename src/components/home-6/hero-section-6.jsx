@@ -17,7 +17,7 @@ const HeroSectionSix = () => {
           <div className="col col-lg-6 order-lg-last">
             <div className="banner_content_6 mb-5 mb-lg-0">
               <h1 className="hero_banner_heading">
-                <span className="small_title">Best IT Business In 2023</span>
+                <span className="small_title">Best IT Business In 2023 - Công nghệ Thôn tin và Truyền Thông ICT</span>
                 <span className="d-block">Thinking For The Essentials For The <span className="focus_text">Next Level</span></span>
               </h1>
               <ul className="btns_group unordered_list">

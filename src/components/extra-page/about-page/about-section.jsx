@@ -25,7 +25,7 @@ const DetailsAboutSection = () => {
                     <i className="fas fa-sharp fa-square-full"></i>
                     <i className="fas fa-sharp fa-square-full"></i>
                   </span>
-                  <span>About US</span>
+                  <span>About US - Về chúng tôi</span>
                 </h2>
                 <h3 className="heading_title">
                   Best for your Start-up Creative Agency
