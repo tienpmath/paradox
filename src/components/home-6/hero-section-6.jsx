@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import hero_banner_img from '@assets/images/banner/hero_banner_image_7.png'
+import hero_banner_img from '@assets/images/banner/banner-home.jpg'
 import shape_banner_1 from '@assets/images/banner/shape_banner_2.svg'
 import shape_banner_2 from '@assets/images/banner/shape_banner_3.svg'
 import shape_banner_3 from '@assets/images/shapes/shape_close_icon.png'
@@ -18,7 +18,7 @@ const HeroSectionSix = () => {
             <div className="banner_content_6 mb-5 mb-lg-0">
               <h1 className="hero_banner_heading">
                 <span className="small_title">Best IT Business In 2023 - Công nghệ Thôn tin và Truyền Thông ICT</span>
-                <span className="d-block">Thinking For The Essentials For The <span className="focus_text">Next Level</span></span>
+                <span className="d-block">ICT ĐÀ LẠT <span className="focus_text">   </span></span>
               </h1>
               <ul className="btns_group unordered_list">
                 <li>
@@ -29,8 +29,8 @@ const HeroSectionSix = () => {
                       </span>
                       <span className="pd-animation-flip">
                         <span className="bd-btn-anim-wrapp">
-                          <span className="bd-button-text">Start Cooperation</span>
-                          <span className="bd-button-text">Start Cooperation</span>
+                          <span className="bd-button-text">Tiến Dev: 0944390988</span>
+                          <span className="bd-button-text">Start 0944390988</span>
                         </span>
                       </span>
                     </span>

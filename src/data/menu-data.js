@@ -1,22 +1,14 @@
 const menu_data = [
   {
     id: 1,
-    hasDropdown: true,
+    hasDropdown: false,
     title: 'Home',
-    link: '/',
-    submenus: [
-      { title: 'IT Agency', link: '/' },
-      { title: 'Personal Portfolio', link: '/home-2' },
-      { title: 'Startup Business', link: '/home-3' },
-      { title: 'Digital Agency', link: '/home-4' },
-      { title: 'Business Consulting', link: '/home-5' },
-      { title: 'Creative Agency', link: '/home-6' },
-    ]
+    link: '/'
   },
   {
-    id:2,
+    id: 2,
     hasDropdown: true,
-    title: 'Services',
+    title: 'Dịch Vụ',
     link: '/service',
     submenus: [
       { title: 'Service Layout 1', link: '/service' },
@@ -31,7 +23,7 @@ const menu_data = [
     title: 'Pages',
     megaMenu: true,
     link: '#',
-    pages:true,
+    pages: true,
     mega_menus: [
       {
         title: 'Page Layout 1', link: '#',
@@ -46,14 +38,14 @@ const menu_data = [
       {
         title: 'Page Layout 2', link: '#',
         submenus: [
-          {title:'About Us',link:'/about'},
-          {title:'About Me',link:'/about-me'},
-          {title:'Our Team',link:'/team'},
-          {title:'Blog Default',link:'/blog'},
-          {title:'Blog Classic',link:'/blog-classic'},
-          {title:'Blog Left Sidebar',link:'/blog-left-sidebar'},
-          {title:'Blog Right Sidebar',link:'/blog-right-sidebar'},
-          {title:'Blog Details',link:'/blog-details'},
+          { title: 'About Us', link: '/about' },
+          { title: 'About Me', link: '/about-me' },
+          { title: 'Our Team', link: '/team' },
+          { title: 'Blog Default', link: '/blog' },
+          { title: 'Blog Classic', link: '/blog-classic' },
+          { title: 'Blog Left Sidebar', link: '/blog-left-sidebar' },
+          { title: 'Blog Right Sidebar', link: '/blog-right-sidebar' },
+          { title: 'Blog Details', link: '/blog-details' },
         ]
       },
       {
@@ -64,31 +56,31 @@ const menu_data = [
           { title: 'Service Layout 3', link: '/service-3' },
           { title: 'Service Layout 4', link: '/service-4' },
           { title: 'Service Details', link: '/service-details' },
-          {title:'Testimonial',link:'/testimonial'},
-          {title:'Pricing Table',link:'/pricing'},
-          {title:'Terms & Conditions',link:'/terms-conditions'},
-          {title:'Privacy & Policy',link:'/policy-privacy'},
+          { title: 'Testimonial', link: '/testimonial' },
+          { title: 'Pricing Table', link: '/pricing' },
+          { title: 'Terms & Conditions', link: '/terms-conditions' },
+          { title: 'Privacy & Policy', link: '/policy-privacy' },
         ]
       },
       {
         title: 'Page Layout 4', link: '#',
         submenus: [
-          {title:'Sign In',link:'/signin'},
-          {title:'Sign Up',link:'/signup'},
-          {title:'Feedback Form',link:'/client-form'},
-          {title:'FAQs',link:'/faq'},
-          {title:'Contact Layout 1',link:'/contact'},
-          {title:'Contact Layout 2',link:'/contact-2'},
-          {title:'Comming Soon',link:'/comming-soon'},
-          {title:'Error 404',link:'/404'},
+          { title: 'Sign In', link: '/signin' },
+          { title: 'Sign Up', link: '/signup' },
+          { title: 'Feedback Form', link: '/client-form' },
+          { title: 'FAQs', link: '/faq' },
+          { title: 'Contact Layout 1', link: '/contact' },
+          { title: 'Contact Layout 2', link: '/contact-2' },
+          { title: 'Comming Soon', link: '/comming-soon' },
+          { title: 'Error 404', link: '/404' },
         ]
       }
     ]
   },
   {
-    id:4,
+    id: 4,
     hasDropdown: true,
-    title: 'Portfolio',
+    title: 'Dự Án',
     link: '/portfolio',
     submenus: [
       { title: 'Portfolio Default', link: '/portfolio' },
@@ -99,9 +91,9 @@ const menu_data = [
     ]
   },
   {
-    id:5,
+    id: 5,
     hasDropdown: true,
-    title: 'Blog',
+    title: 'Tin Tức',
     link: '/blog',
     submenus: [
       { title: 'Blog Default', link: '/blog' },
@@ -112,9 +104,9 @@ const menu_data = [
     ]
   },
   {
-    id:6,
+    id: 6,
     hasDropdown: false,
-    title: 'Contact',
+    title: 'Liên Hệ',
     link: '/contact',
   },
 ]

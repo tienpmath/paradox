@@ -14,7 +14,7 @@ const FooterSix = () => {
               <div className="col col-lg-7">
                 <div className="section_heading text-white">
                   <h2 className="heading_title mb-0">
-                    Let’s create something amazing together.
+                    Liên hệ Chúng tôi ngay 0944 390 988
                   </h2>
                 </div>
                 <Link href="/contact" className="bd-btn-link btn_warning">
@@ -24,8 +24,8 @@ const FooterSix = () => {
                     </span>
                     <span className="pd-animation-flip">
                       <span className="bd-btn-anim-wrapp">
-                        <span className="bd-button-text">Get Started</span>
-                        <span className="bd-button-text">Get Started</span>
+                        <span className="bd-button-text">Bắt đầu</span>
+                        <span className="bd-button-text">Bắt đầu</span>
                       </span>
                     </span>
                   </span>
@@ -49,12 +49,12 @@ const FooterSix = () => {
                   </Link>
                 </div>
                 <p>
-                  Our action plan is focused and planned. We are result oriented organization
+                  ICT Đà Lạt - Công nghệ Thông tin & Truyền Thông
                 </p>
                 <div className="social_wrap d-block">
-                  <h3 className="social_title">Follow Me on :</h3>
+                  <h3 className="social_title">Theo dõi kênh:</h3>
                   <ul className="social_icon unordered_list">
-                    <li><Link href="https://www.facebook.com/" target="_blank"><i className="fab fa-facebook-f"></i></Link></li>
+                    <li><Link href="https://www.facebook.com/tienpmath" target="_blank"><i className="fab fa-facebook-f"></i></Link></li>
                     <li><Link href="https://twitter.com/" target="_blank"><i className="fab fa-twitter"></i></Link></li>
                     <li><Link href="https://www.youtube.com/" target="_blank"><i className="fab fa-youtube"></i></Link></li>
                     <li><Link href="https://www.behance.net/" target="_blank"><i className="fab fa-behance"></i></Link></li>
@@ -65,7 +65,7 @@ const FooterSix = () => {
             </div>
             <div className="col col-lg-4">
               <div className="footer_widget">
-                <h3 className="footer_widget_title">Newsletter</h3>
+                <h3 className="footer_widget_title">Nhận Thông báo</h3>
                 <form action="#">
                   <div className="small_newsletter_form style_2">
                     <label className="input_icon" htmlFor="input_newsletter"><i className="fas fa-envelope"></i></label>
@@ -76,7 +76,7 @@ const FooterSix = () => {
                   </div>
                   <div className="form-check">
                     <input type="checkbox" id="checkMeOut" />
-                    <label htmlFor="checkMeOut">I accept with this Condition</label>
+                    <label htmlFor="checkMeOut">Chấp nhận các điều khoản của chúng tôi</label>
                   </div>
                 </form>
                 <div className="icon_list_widget">
@@ -85,9 +85,9 @@ const FooterSix = () => {
                   </h4>
                   <ul className="icon_list unordered_list_block">
                     <li>
-                      <Link href="mailto:contact@paradox.com">
+                      <Link href="mailto:tiendev88@gmail.com">
                         <span className="list_item_text">
-                          contact@paradox.com
+                          tiendev88@gmail.com
                         </span>
                       </Link>
                     </li>
@@ -96,9 +96,9 @@ const FooterSix = () => {
               </div>
             </div>
           </div>
-          
+
           <div className="copyright_widget copyright_space text-center">
-            Copyright © 2023 by <Link target="_blank" href="https://themeforest.net/user/bdevs/portfolio"><u>Bdevs</u></Link> All Rights Reserved.
+            Copyright © 2023 by <Link target="_blank" href="https://ictdalat.vn"><u> Tiến Dev - ICT Đà Lạt</u></Link> All Rights Reserved.
           </div>
         </div>
       </div>

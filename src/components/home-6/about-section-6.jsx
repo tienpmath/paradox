@@ -19,7 +19,7 @@ const AboutSectionSix = () => {
             <div className="about_content">
               <div className="section_heading style_4">
                 <h2 className="heading_subtitle text-uppercase">
-                  <span>About paradox</span>
+                  <span>Về Chúng Tôi</span>
                 </h2>
                 <h3 className="heading_title">
                   We Can do Every Single IT Solution together

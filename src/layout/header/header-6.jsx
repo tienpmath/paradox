@@ -37,7 +37,7 @@ const HeaderSix = () => {
               <Link className="site_link" href="/">
                 <Image
                   src={site_logo}
-                  alt="Site Logo - Paradox - Agency Template"
+                  alt="ICT Đà Lạt 2023"
                 />
               </Link>
             </div>
@@ -88,8 +88,8 @@ const HeaderSix = () => {
                     <span className="bd-button-content-wrapper">
                       <span className="pd-animation-flip">
                         <span className="bd-btn-anim-wrapp">
-                          <span className="bd-button-text">Get a Quotes Tiến</span>
-                          <span className="bd-button-text">Get a Quotes</span>
+                          <span className="bd-button-text">Tiến Dev: 0944390988</span>
+                          <span className="bd-button-text">Hotline: 0944390988</span>
                         </span>
                       </span>
                     </span>
